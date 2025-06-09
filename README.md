@@ -1,6 +1,12 @@
-What's the SECRET to Creating STUNNING Hillshade and Population Maps with Ease?
-Master the art of terrain and population visualization using hillshades, 3D mapping, and spatial analysis. This repository walks you through building topographic and population density maps that reveal hidden patterns and insights. Whether you're new to GIS or a seasoned analyst, you'll learn how to visualize elevation, model terrain, and map population distributions with clarity and impact. Perfect for anyone exploring spatial data, cartographic design, and geospatial storytelling.
+What’s the SECRET to Creating SPECTACULAR Hillshade and Population Maps—Effortlessly?
+Unlock the power of advanced geospatial visualization! This repository is your step-by-step guide to crafting stunning topographic and population density maps using cutting-edge hillshade, 3D mapping, and spatial analytics in R. Whether you’re a GIS newcomer or a data science veteran, you’ll discover how to illuminate terrain, uncover hidden patterns, and communicate population distribution with clarity and visual impact. Ideal for anyone passionate about spatial data, cartographic artistry, or insightful geospatial storytelling.
+
+Population data source:
 WorldPop (2023). India 2020 Population (100m, Constrained). University of Southampton.
-Available at: https://data.worldpop.org/GIS/Population/Global_2000_2020_Constrained/2020/BSGM/IND/ind_ppp_2020_constrained.tif
+Direct download link
+
+
+
+
 ![India Population Relief Map](https://github.com/rahulIITISMDhanabd/hillshade-population-maps/blob/main/india_population_relief_custom_states.png?raw=true)
 
